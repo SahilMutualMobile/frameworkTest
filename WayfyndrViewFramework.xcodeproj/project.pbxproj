@@ -47,10 +47,18 @@
 		0B4B813F28DAEC3A0052A617 /* WayfyndrViewFramework */ = {
 			isa = PBXGroup;
 			children = (
-				0B4B814728DAEC450052A617 /* WayfyndrView.swift */,
+				0B4B815728DAF1830052A617 /* View */,
 				0B4B814028DAEC3A0052A617 /* WayfyndrViewFramework.h */,
 			);
 			path = WayfyndrViewFramework;
+			sourceTree = "<group>";
+		};
+		0B4B815728DAF1830052A617 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0B4B814728DAEC450052A617 /* WayfyndrView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
